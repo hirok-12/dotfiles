@@ -1,0 +1,1 @@
+/Users/inoue_hiroki/ghq/github.com/hirok-12/dotfiles/.zshrc
