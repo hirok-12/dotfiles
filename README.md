@@ -5,4 +5,4 @@ $ bash brew-init.sh
 $ make link
 
 # シンボリックリンクを削除する
-$ make clear
+$ make clean
